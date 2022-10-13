@@ -1,6 +1,11 @@
+
+
 const CartWidget = () => {
-    return (<div>icono
-    </div>);
+    return (
+        <div>
+            <box-icon name="cart"></box-icon>
+        </div>
+    );
 }
 
 export default CartWidget
