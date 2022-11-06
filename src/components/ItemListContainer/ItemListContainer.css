@@ -1,3 +1,16 @@
-img{
-    width: 100px;
+
+h1{
+    text-align: center;
+    padding-top: 50px;
 }
+
+.listaProductos{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+padding-top: 50px;
+}
+p{
+    text-align: center;
+}
+

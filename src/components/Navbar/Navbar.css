@@ -1,0 +1,12 @@
+nav{
+   display: flex;
+   justify-content:space-around;
+   align-items: flex-end; 
+   background-color: bisque;
+}
+nav h1{
+    color: #000000;
+    text-decoration:none;
+}
+
+
